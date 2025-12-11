@@ -1,6 +1,6 @@
 <!-- Баннер -->
-<a href="https://github.com/Glauedson">
-  <img src="./assets/baner.gif" alt="Изображение обложки" style="width:100%; height:auto"/>
+<a href="https://github.com/DAKARCHIK">
+  <img src="/assets/banner.gif" alt="Изображение обложки" style="width:100%; height:auto"/>
 </a>
 
 
