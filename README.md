@@ -25,17 +25,21 @@
        src="https://custom-icon-badges.herokuapp.com/github/followers/Glauedson?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
 
 
-
 <!-- Блок "Кто я?" -->
-<img src="/assets/CHUBZIK.gif" width="330" align="left">
+<div style="overflow: auto; margin-bottom: 20px;">
 
-<div align="center">
-  
-**Кто я?**
+  <!-- GIF слева -->
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQ2MHpteHkwNmhtdXdydmM5YW9nYTVvb244eHRkbWM2dnEyY3cwYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ayE7jjRuUBQk/giphy.gif" 
+    width="330" 
+    style="float: left; margin-right: 20px; border-radius: 8px;"
+  />
 
-</div>
+  <!-- Заголовок -->
+  <h2 align="center"><strong>Кто я?</strong></h2>
 
-<div align="justify">
+  <!-- Текст -->
+  <div align="justify" style="font-size: 16px; line-height: 1.5;">
 
 Я — человек, который слишком рано понял, что компьютеры интереснее уроков.  
 Сначала я ломал игры, потом начал их собирать обратно — так во мне и поселился будущий «этичный хакер».  
@@ -46,50 +50,67 @@
 Сегодня я развиваюсь в веб-разработке, особенно в **Frontend**, где могу сочетать структуру, эстетику и своё хроническое стремление всё улучшить.  
 Люблю задачи, над которыми нужно думать, и проекты, после которых хочется сказать: «Вот это было красиво».
 
+  </div>
+
 </div>
-<br/>
+
+<br clear="both"/>
 
 
-<!-- Гифка -->
-<img align="right" alt="Обложка — О себе" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"></br>
+<!-- Гифка в углу -->
+<img align="right" alt="Обложка — О себе" width="300" 
+     style="margin-left: 20px;"
+     src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDFkOGU5dmRhMXZ2aHZwMXRpdXpzcXlqOTlsengzZTR3M241YWNqOSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/pNpONEEg3pLIQ/giphy.gif">
 
-<!-- Немного больше обо мне -->
-<h3 align="center">
-  <img src="./assets/icons/user-white.svg" width=15>
-   Немного больше обо мне 
-  <img src="./assets/icons/user-black.svg" width=15>
-</h3>
+<!-- Заголовок -->
+<h2 align="left">Немного больше обо мне   <img src="./assets/icons/user-black.svg" width="18"></h2>
 
-⬛ Мне нравится учиться у людей, которые сильнее меня — это ускоряет моё развитие.</br>
-⬜ Сейчас работаю над личными проектами и над собой </br>
-⬛ Всегда готов помочь тем, кто хочет развиваться в чем либо,будь то хакерство </br>
-⬜ Интересуюсь тем что большинство не воспринимают за сущность</br>
+<!-- Текстовый блок слева -->
+<div align="left" style="line-height: 1.8; font-size: 18px; max-width: 65%;">
+
+🟦 Мне нравится учиться у людей, которые сильнее меня — это ускоряет моё развитие.</br>
+
+🟪 Сейчас работаю над личными проектами и над собой.</br> 
+
+⬛ Всегда готов помочь тем, кто хочет развиваться в чем-либо, будь то хакерство.</br>
+
+🟪 Интересуюсь тем, что большинство не воспринимают за сущность.</br>
+
 ⬛ Любитель минимализма.
 
-<div align="center">
+</div>
+
+<br><br>
+
+<!-- Заголовок "Связаться со мной" -->
+<h3 align="center">
+  Связаться со мной
+</h3>
+
+<!-- Социальные сети в центре -->
+<div align="center" style="margin-top: 10px;">
 
   <!-- Telegram -->
-  <a href="https://t.me/ТВОЙ_НИК" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" 
-         width="50px" alt="Telegram" />
+  <a href="https://t.me/PapaDakar" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" 
+         width="55px" alt="Telegram" />
   </a>
 
   <!-- Instagram -->
   <a href="https://instagram.com/ТВОЙ_НИК" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" 
-         width="50px" alt="Instagram" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" 
+         width="55px" alt="Instagram" />
   </a>
 
   <!-- Discord -->
   <a href="https://discord.com/users/ТВОЙ_ID" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" 
-         width="50px" alt="Discord" />
+    <img src="https://e7.pngegg.com/pngimages/574/586/png-clipart-discord-computer-icons-logo-computer-software-others-miscellaneous-blue-thumbnail.png" 
+         width="55px" alt="Discord" />
   </a>
 
 </div>
 
-</div>
-</br>
+<br><br>
 
 <!-- GitHub Статистика -->
 <h3 align="center">
@@ -99,22 +120,11 @@
 </h3>
 <br>
 
-<div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=Glauedson&theme=graywhite&hide_border=true&locale=eng&mode=weekly)](https://git.io/streak-stats)
-</div>
 
-<!-- Академическое образование -->
-<h3 align="center">
-<img src="./assets/icons/graduation-white.svg" width=25>
- Академическое образование 
-<img src="./assets/icons/graduation-black.svg" width=25>
-</h3>
-<br>
 
-<div align="center">
 
-[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=IFCE%20Федеральный%20институт%20Сеары&course=Анализ%20и%20разработка%20систем&degree=Технолог&progress=92%25&img=https://tudoradio.com/img/uploads/radios/67ffaa753f165.png)](https://github.com/Glauedson/github-readme-educational-badge)
-<div>
+
+
 
 <!-- Мой стек технологий -->
 <h3 align="center">
@@ -177,11 +187,13 @@
 </div>
 </br>
 
-<p align="center">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" /> <br>
+<!-- Картинка в конце блока -->
+<div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=White&height=80&section=footer"
-    width="100%" 
+    src="https://cdn.jsdelivr.net/gh/zliio/zliio-hamsters@main/image/zliio_readme_header.png" 
+    width="auto" 
+    alt="footer-banner"
   />
-</p>
-
+</div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
