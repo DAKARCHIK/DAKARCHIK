@@ -26,61 +26,48 @@
 
 
 <!-- Блок "Кто я?" -->
-<div style="overflow: auto; margin-bottom: 20px;">
-
-  <!-- GIF слева -->
-  <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQ2MHpteHkwNmhtdXdydmM5YW9nYTVvb244eHRkbWM2dnEyY3cwYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ayE7jjRuUBQk/giphy.gif" 
-    width="330" 
-    style="float: left; margin-right: 20px; border-radius: 8px;"
-  />
-
-  <!-- Заголовок -->
-  <h2 align="center"><strong>Кто я?</strong></h2>
-
-  <!-- Текст -->
-  <div align="justify" style="font-size: 16px; line-height: 1.5;">
-
-Я — человек, который слишком рано понял, что компьютеры интереснее уроков.  
-Сначала я ломал игры, потом начал их собирать обратно — так во мне и поселился будущий «этичный хакер».  
-
-Параллельно увлёкся 3D-моделированием и графическим дизайном: пытался создавать красивое, но чаще всего создавал странное.  
-Зато именно это вывело меня к фронтенду — сфере, где логика встречается с визуалом, а результат видно сразу.
-
-Сегодня я развиваюсь в веб-разработке, особенно в **Frontend**, где могу сочетать структуру, эстетику и своё хроническое стремление всё улучшить.  
-Люблю задачи, над которыми нужно думать, и проекты, после которых хочется сказать: «Вот это было красиво».
-
-  </div>
-
 </div>
 
-<br clear="both"/>
+</br>
 
+<img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width=330 align="left">
+<div align="center">
 
-<!-- Гифка в углу -->
-<img align="right" alt="Обложка — О себе" width="300" 
-     style="margin-left: 20px;"
-     src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDFkOGU5dmRhMXZ2aHZwMXRpdXpzcXlqOTlsengzZTR3M241YWNqOSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/pNpONEEg3pLIQ/giphy.gif">
-
-<!-- Заголовок -->
-<h2 align="left">Немного больше обо мне   <img src="./assets/icons/user-black.svg" width="18"></h2>
-
-<!-- Текстовый блок слева -->
-<div align="left" style="line-height: 1.8; font-size: 18px; max-width: 65%;">
-
-🟦 Мне нравится учиться у людей, которые сильнее меня — это ускоряет моё развитие.</br>
-
-🟪 Сейчас работаю над личными проектами и над собой.</br> 
-
-⬛ Всегда готов помочь тем, кто хочет развиваться в чем-либо, будь то хакерство.</br>
-
-🟪 Интересуюсь тем, что большинство не воспринимают за сущность.</br>
-
-⬛ Любитель минимализма.
-
+**Who Am I?**
 </div>
 
-<br><br>
+<div align="justify">
+
+I’m a student of `Systems Analysis and Development` at the `Federal Institute of Science and Technology of Ceará` **(IFCE)**.  
+My journey in technology started early: at the age of 14, I began programming small 3D games in Unity, and soon after, I immersed myself in the world of 2D games using GameMaker.  
+At 15, I discovered my creative side and worked as a freelance graphic designer, which also fueled my passion for interfaces and visual aesthetics.
+
+When I turned 18 and entered college, I fully dove into programming.  
+Since then, I have been dedicating my time to studying development in depth, with a special focus on `Fullstack Web Development`.  
+Although I study the complete ecosystem, my real strength and the area I enjoy exploring the most is `Front-End`, where I can combine logic, creativity, and design.
+
+</div>
+</br>
+
+
+
+
+
+<!-- Gif  -->
+<img align="right" alt="capa-Sobre" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"></br>
+
+<!-- A Little More About Me -->
+ <h3 align="center">
+  <img src="./assets/icons/user-white.svg" width=15>
+  A Little More About Me 
+  <img src="./assets/icons/user-black.svg" width=15>
+ </h3>
+
+ ⬛ I enjoy being around more experienced people who challenge me to grow.</br>
+ ⬜ Currently working on projects with React.  </br>
+ ⬛ Always willing to help anyone wanting to learn more about Front-End. </br>
+ ⬜ Interested in any large-scale project that makes me think.</br>
+ ⬛ Minimalism enthusiast.
 
 <!-- Заголовок "Связаться со мной" -->
 <h3 align="center">
