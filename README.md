@@ -104,10 +104,7 @@
 </h3>
 <br>
 
-(https://streak-stats.demolab.com?user=DAKARCHIK&theme=merko&hide_border=true&border_radius=5&locale=ru&short_numbers=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
-
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=DAKARCHIK&theme=merko&border_radius=5&locale=ru&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
 
 
