@@ -104,9 +104,6 @@
 </h3>
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DAKARCHIK&theme=merko&border_radius=5&locale=ru&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
-
-
 
 
 <!-- Мой стек технологий -->
@@ -119,11 +116,11 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,kotlin,cpp" /><br>
-    <img src="https://skillicons.dev/icons?i=react,electron,nodejs,express,tailwind,bootstrap" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,vite,spring,postman,git" /><br>
-    <img src="https://skillicons.dev/icons?i=supabase,github,figma,vercel,notion,md" /><br>
-    <img src="https://skillicons.dev/icons?i=androidstudio,arduino" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,kotlin,cpp,bash,c,cs,go" /><br>
+    <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,tailwind,bootstrap" /><br>
+    <img src="https://skillicons.dev/icons?i=postgres,vite,npm,postman,git" /><br>
+    <img src="https://skillicons.dev/icons?i=obsidian,github,figma,ps,au,ae,notion,md" /><br>
+    <img src="https://skillicons.dev/icons?i=kali,java,ai,flask,arch,linux,blender" /><br>
 </div>
 
 <br/>
@@ -138,7 +135,7 @@
   </h3></br>
 
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/Glauedson/Lembra-Plus-task-app">
+    <a href="https://github.com/DAKARCHIK/Focus-mvp-ai500">
         <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=Lembra-Plus-task-app&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=D9D9D9" />
     </a>
     <a href="https://github.com/Glauedson/github-readme-educational-badge">
