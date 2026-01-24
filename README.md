@@ -81,13 +81,13 @@
   </a>
 
   <!-- Instagram -->
-  <a href="https://instagram.com/ТВОЙ_НИК" target="_blank">
+  <a href="https://www.instagram.com/s.k.i.f_24?igsh=MTExZmQxbTVva3JmbQ==" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" 
          width="55px" alt="Instagram" />
   </a>
 
   <!-- Discord -->
-  <a href="https://discord.com/users/ТВОЙ_ID" target="_blank">
+  <a href="https://discord.com/users/DAKAR" target="_blank">
     <img src="https://e7.pngegg.com/pngimages/574/586/png-clipart-discord-computer-icons-logo-computer-software-others-miscellaneous-blue-thumbnail.png" 
          width="55px" alt="Discord" />
   </a>
